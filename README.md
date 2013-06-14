@@ -2,7 +2,7 @@
 
 ## Who are you, and what do you do?
 
-I'm an Agile Coach at [Odd-e](htp://odd-e.com).
+I'm an Agile Coach at [Odd-e](http://odd-e.com).
 
 ## What hardware do you use?
 
