@@ -20,6 +20,6 @@ Vim is currently my editor, and I'm trying to spend more time on it so I can be 
 
 I'm disappointed that Apple did not announce new Haswell-based MacBook Pros in the 2013 WWDC, as I'm planning to upgrade.  I'm aiming for a 15" with 512GiB SSD and 16GiB RAM, assuming Apple did not bump up the specs.  I got spoiled by my Mac mini with it's i7 and 16GiB RAM.  I would think twice if Apple released a 13" with those specs.
 
-I plan to get a 32" iPad mini if one with a Retina screen comes up.  I'm also looking if I should put a second 27" LCD monitor to my Mac mini, though my table won't be able to fit it.  I've been eyeing a Cinema display if it's as thin as the latest iMacs, but then again I find them too expensive.
+I plan to get a 32GiB iPad mini if one with a Retina screen comes up.  I'm also looking if I should put a second 27" LCD monitor to my Mac mini, though my table won't be able to fit it.  I've been eyeing a Cinema display if it's as thin as the latest iMacs, but then again I find them too expensive.
 
 Well, to answer the question, I think I would like a Mac Pro with 3 Cinema displays.
